@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Badminton Daily Trainer",
+    "slug": "badminton-daily-trainer",
+    "scheme": "badmintondailytrainer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.anonymous.badminton-daily-trainer"
+    }
+  }
+}
